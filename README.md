@@ -85,6 +85,6 @@ This interactive **HR Analytics Dashboard** was built to uncover key patterns in
 
 ### 🔗 Repository Link:
 
-**GitHub:** [HR-Analytics-Dashboard using Tableau](https://github.com/Amisha-deshmukh/HR-ANALYTICAL-DASHBOARD-Using-Tablueu)
+**GitHub:** [HR-Analytics-Dashboard using Tableau](https://github.com/22bsm065/HR-Dashboard_Tableau.git)
 
 ---
