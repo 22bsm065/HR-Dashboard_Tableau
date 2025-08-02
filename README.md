@@ -1,7 +1,4 @@
-# HR-Dashboard_Tableau
-Here’s a professional and slightly more polished **alternate version** of your project description for your resume, GitHub, or LinkedIn:
 
----
 
 # 📊 HR Analytics Dashboard – Comprehensive Employee Analysis using Tableau
 
